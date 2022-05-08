@@ -1,5 +1,4 @@
 <template>
-    <!-- <NuxtWelcome /> -->
   <div class="bg-gray-200 h-screen flex justify-center items-center">
     <div class="p-5 bg-white w-[500px] h-[600px] rounded-2xl shadow-md border-b-8 border-blue-500">
       <h1 class="text-center text-4xl mb-20 font-bold">Login</h1>
